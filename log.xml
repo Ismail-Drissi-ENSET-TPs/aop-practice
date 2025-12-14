@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2025-12-14T19:25:55.611341600Z</date>
+  <millis>1765740355611</millis>
+  <nanos>341600</nanos>
+  <sequence>0</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>before executing method: addCompte</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:55.618752300Z</date>
+  <millis>1765740355618</millis>
+  <nanos>752300</nanos>
+  <sequence>1</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>before executing method: getCode</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:55.618752300Z</date>
+  <millis>1765740355618</millis>
+  <nanos>752300</nanos>
+  <sequence>2</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>after executing method: getCode</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:55.626746100Z</date>
+  <millis>1765740355626</millis>
+  <nanos>746100</nanos>
+  <sequence>3</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>duration: 0ms</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:55.626746100Z</date>
+  <millis>1765740355626</millis>
+  <nanos>746100</nanos>
+  <sequence>4</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>after executing method: addCompte</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:55.626746100Z</date>
+  <millis>1765740355626</millis>
+  <nanos>746100</nanos>
+  <sequence>5</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>duration: 8ms</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.176760900Z</date>
+  <millis>1765740358176</millis>
+  <nanos>760900</nanos>
+  <sequence>6</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>before executing method: consulter</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.177781900Z</date>
+  <millis>1765740358177</millis>
+  <nanos>781900</nanos>
+  <sequence>7</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>after executing method: consulter</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.177781900Z</date>
+  <millis>1765740358177</millis>
+  <nanos>781900</nanos>
+  <sequence>8</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>duration: 0ms</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.177781900Z</date>
+  <millis>1765740358177</millis>
+  <nanos>781900</nanos>
+  <sequence>9</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>before</method>
+  <thread>1</thread>
+  <message>before executing method: getSolde</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.177781900Z</date>
+  <millis>1765740358177</millis>
+  <nanos>781900</nanos>
+  <sequence>10</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>after executing method: getSolde</message>
+</record>
+<record>
+  <date>2025-12-14T19:25:58.178758200Z</date>
+  <millis>1765740358178</millis>
+  <nanos>758200</nanos>
+  <sequence>11</sequence>
+  <logger>aspects.LoggingAspect</logger>
+  <level>INFO</level>
+  <class>aspects.LoggingAspect</class>
+  <method>after</method>
+  <thread>1</thread>
+  <message>duration: 1ms</message>
+</record>
+</log>

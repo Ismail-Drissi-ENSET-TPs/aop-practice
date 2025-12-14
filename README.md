@@ -31,4 +31,4 @@ The Security Aspect manages authentication and authorization concerns.
 
 ### Patch Retrait Aspect
 
-The Patch Retrait Aspect handles dynamic code verifications of retrieval in accounts.
+The Patch Retrait Aspect adds a validation rule to the withdrawal (retirer) operation in the banking service.
